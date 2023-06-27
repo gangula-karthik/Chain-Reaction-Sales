@@ -1,4 +1,4 @@
-# Chain Reaction Data Journalism Project :bicycle: :chart_with_upwards_trend: :newspaper:
+# Chain Reaction Data Journalism Project :bike:
 
 Hello there! :wave:
 
