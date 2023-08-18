@@ -1,4 +1,4 @@
-# Chain Reaction Data Journalism Project :bike:
+# Chain Reaction Data Journalism Project ⛓️
 
 Hello there! :wave:
 
