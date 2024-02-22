@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/gangula-karthik/chain-reaction-sales/assets/56480632/538e5acc-956d-47fc-bc4a-c8120bf5bba7" alt="DALL·E 2024-02-22 10 06 39 - Imagine a high-quality 4K landscape cover image for a data journalism project focusing on the sales analysis of a bicycle and accessories manufacturer" width="540" height="300">
+</p>
+
 # Chain Reaction Data Journalism Project ⛓️
 
 Hello there! :wave:
